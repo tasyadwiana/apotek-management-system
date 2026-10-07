@@ -20,10 +20,6 @@ This project was created as a real-world case study to help pharmacy staff manag
 * MySQL Database
 * JasperReports (for printing reports)
 
-## My Role
-
-I designed the database, implemented CRUD operations, handled transaction logic, and fixed reporting & printing issues.
-
 ## Status
 
 Completed and working locally.
